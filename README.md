@@ -1,4 +1,5 @@
-# Visual Studio Code extension for Parallels Desktop
+#README.md
+Visual Studio Code extension for Parallels Desktop
 
 [![Build](https://github.com/Parallels/parallels-vscode-extension/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/Parallels/parallels-vscode-extension/actions/workflows/build.yml) [![](https://dcbadge.vercel.app/api/server/etqdafGvjK?style=flat&theme=default)](https://discord.gg/etqdafGvjK)
 
